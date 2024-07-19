@@ -1,0 +1,2 @@
+- script tag is not self closing tag
+- sir has used windows.alert() ,  why ?
